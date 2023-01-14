@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ms-Server-Connection</string>
+    <string name="email">Enter email</string>
+    <string name="account">Don\'t have an account</string>
+</resources>
