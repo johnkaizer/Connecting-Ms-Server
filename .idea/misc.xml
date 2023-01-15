@@ -4,7 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/MsServerConnection/app/src/main/res/drawable/btn_back.xml" value="0.1" />
-        <entry key="..\:/MsServerConnection/app/src/main/res/layout/activity_sign_in.xml" value="0.19010416666666666" />
+        <entry key="..\:/MsServerConnection/app/src/main/res/drawable/edit_text_back.xml" value="0.1" />
+        <entry key="..\:/MsServerConnection/app/src/main/res/layout/activity_sign_in.xml" value="0.22" />
         <entry key="..\:/MsServerConnection/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
       </map>
     </option>
@@ -14,5 +15,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
   </component>
 </project>

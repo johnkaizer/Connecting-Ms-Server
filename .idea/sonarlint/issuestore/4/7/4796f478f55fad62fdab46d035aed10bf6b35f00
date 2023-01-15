@@ -1,0 +1,8 @@
+
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÂÇøÙ8ÀìéÛ0
+H
+java:S1172"+Remove this unused method parameter "view".(½‹“¥8ãƒÛ0
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óİóü8§·ìÛ0
+H
+java:S1172"+Remove this unused method parameter "view".(óİóü8Ş›Û0
